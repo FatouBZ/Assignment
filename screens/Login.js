@@ -13,6 +13,7 @@ export default function Login({navigation}){
             height: 200,
             borderRadius: 20,
             marginBottom: 50,
+            marginTop:70,
             transform:[{rotate:"295deg"}]
         }}
         source={require('./images/sun.png')} 
